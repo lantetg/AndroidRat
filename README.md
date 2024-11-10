@@ -18,7 +18,7 @@
 
 </p>
 <h1 align="center">
- <a href="https://t.me/hackingtoolsf">Telegram</a><br>
+ <a href="https://t.me/lanetg">Telegram</a><br>
 🔱 Join Telegram for support and contact 🔱
 </h1>
 **NOTE:** 
@@ -109,8 +109,8 @@ This software was made for personal **education** and **sandbox testing** purpos
 
 
 ### Developer
-- [x1na](https://t.me/x1naa2)
+- [lane](https://t.me/lanetg)
 
 
 ## How to use
-### If you are interested in 888, you can find more information by reaching out to our [Telegram channel](https://t.me/Hackingtoolsf):
+### If you are interested in 888, you can find more information by reaching out to our [Telegram channel](https://t.me/laneservice):
